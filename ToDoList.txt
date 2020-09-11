@@ -1,0 +1,6 @@
+Things to make
+
+Recursive Sudoku Solver
+Website (using Django)
+Webscraper (using BeautifulSoup)
+GUI--would like to make a color picker!
